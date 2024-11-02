@@ -74,7 +74,7 @@ Example #: [Example 2.js]
    Loom link: https://www.loom.com/share/f334769c803849159865f4f757c2a35d?sid=c754a339-6440-4055-a8f0-47beeab8f1f2
 
 
-Example #: [Insert Example Number]
+Example #: [Example 1.js ]
 
 ## Declarative Approach [2 Minutes]
 1. **High-Level Process Description:** Explain the code logic in the declarative approach.
@@ -87,4 +87,6 @@ Example #: [Insert Example Number]
 
 # Learning Outcome [1 Minute]
 - Reflect on what you've learned from analyzing these code examples in different paradigms.
+
+loom video for example 1 : https://www.loom.com/share/e0734c89263b4d508d4b7d1b4bf5b1a4?sid=a13ef236-4bf3-47f5-8acf-22adca7585ff
 
