@@ -71,7 +71,7 @@ Example #: [Example 2.js]
    - Point out the use of loops, conditions, and explicit instructions.
    - Discuss any mutable variables or states that change during execution.
 
-   Loom link: 
+   Loom link: https://www.loom.com/share/f334769c803849159865f4f757c2a35d?sid=c754a339-6440-4055-a8f0-47beeab8f1f2
 
 
 Example #: [Insert Example Number]
